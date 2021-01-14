@@ -1,4 +1,4 @@
-#Encrypted By xNot_Found
+#Encrypted By SHAFO_IRAQE
 #Github : https://github.com/hatakecnk/
 #Do not edit the script to avoid errors
 from collections import OrderedDict
